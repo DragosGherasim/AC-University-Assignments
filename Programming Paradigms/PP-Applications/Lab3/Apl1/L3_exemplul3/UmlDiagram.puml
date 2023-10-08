@@ -1,0 +1,30 @@
+@startuml
+
+class Birth {
+    + val Year: Int
+    + val Month: Int
+    + val Day: Int
+    + override toString(): String
+}
+
+class Contact {
+    + val Name: String
+    + var Phone: String
+    + val BirthDate: Birth
+    + Print() : Unit
+    + SetPhoneNumber()
+}
+
+class Agenda {
+    + val ListOfContacts : MutableList<Contact>
+    + AddContact(contact : Contact)
+    + PrintContacts()
+    + RemoveContact(name : String)
+    + FindContactByName(name : String): Contact?
+    + FindContactByPhoneNumber(phoneNumber : String)
+    + UpdatePhoneNumber(name : String, phoneNumber: String)
+}
+
+Agenda *--- Contact : is (Composition)
+Contact o--- Birth : has (Aggregation)
+@enduml

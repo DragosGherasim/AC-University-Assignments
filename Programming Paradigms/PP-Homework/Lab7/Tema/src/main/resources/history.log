@@ -1,0 +1,20 @@
+Start-Date: 2023-04-06  17:43:41
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgs9-common:amd64 (9.53.3~dfsg-7+deb11u2, 9.53.3~dfsg-7+deb11u4), libgs9:amd64 (9.53.3~dfsg-7+deb11u2, 9.53.3~dfsg-7+deb11u4)
+End-Date: 2023-04-06  17:43:55
+
+Start-Date: 2023-04-06  17:43:58
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xserver-xorg-core:amd64 (2:1.20.11-1+deb11u5, 2:1.20.11-1+deb11u6), xserver-common:amd64 (2:1.20.11-1+deb11u5, 2:1.20.11-1+deb11u6)
+End-Date: 2023-04-06  17:44:01
+
+Start-Date: 2023-04-06  17:44:05
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: xserver-xorg-legacy:amd64 (2:1.20.11-1+deb11u5, 2:1.20.11-1+deb11u6)
+End-Date: 2023-04-06  17:44:08
+
+Start-Date: 2023-04-07  17:28:05
+Commandline: apt-get install default-jre
+Requested-By: student (1000)
+Install: openjdk-11-jre:amd64 (11.0.18+10-1~deb11u1, automatic), openjdk-11-jre-headless:amd64 (11.0.18+10-1~deb11u1, automatic), libatk-wrapper-java-jni:amd64 (0.38.0-2+deb11u1, automatic), java-common:amd64 (0.72, automatic), libgif7:amd64 (5.1.9-2, automatic), default-jre-headless:amd64 (2:1.11-72, automatic), ca-certificates-java:amd64 (20190909, automatic), default-jre:amd64 (2:1.11-72), libatk-wrapper-java:amd64 (0.38.0-2+deb11u1, automatic)
+End-Date: 2023-04-07  17:28:29
