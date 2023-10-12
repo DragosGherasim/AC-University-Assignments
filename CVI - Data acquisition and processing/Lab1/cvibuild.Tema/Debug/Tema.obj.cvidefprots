@@ -1,0 +1,35 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:7:5"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:19:17"
+
+[OnBackgColNum]
+Class="Function"
+Prototype="int OnBackgColNum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:40:17"
+
+[OnFontColNum]
+Class="Function"
+Prototype="int OnFontColNum(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:55:17"
+
+[OnBinarySwitch]
+Class="Function"
+Prototype="int OnBinarySwitch(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:72:17"
+
+[OnExitButton]
+Class="Function"
+Prototype="int OnExitButton(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:86:17"
+
+[OnButton1]
+Class="Function"
+Prototype="int OnButton1(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c:101:17"
+

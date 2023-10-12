@@ -1,0 +1,1 @@
+-force-include-file "Tema.c";"d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab1\Tema.c" 
