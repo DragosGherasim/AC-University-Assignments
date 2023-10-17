@@ -1,0 +1,35 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:7:5"
+
+[QuitUserInterfaceConfirm]
+Class="Function"
+Prototype="void QuitUserInterfaceConfirm();"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:19:6"
+
+[OnMainPanel]
+Class="Function"
+Prototype="int OnMainPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:27:17"
+
+[OnExitMenuItem]
+Class="Function"
+Prototype="void OnExitMenuItem(int menuBar, int menuItem, void *callbackData, int panel);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:46:18"
+
+[OnAboutMenuItem]
+Class="Function"
+Prototype="void OnAboutMenuItem(int menuBar, int menuItem, void *callbackData, int panel);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:52:18"
+
+[OnGraph]
+Class="Function"
+Prototype="int OnGraph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:58:17"
+
+[OnReteaSwitch]
+Class="Function"
+Prototype="int OnReteaSwitch(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c:70:17"
+

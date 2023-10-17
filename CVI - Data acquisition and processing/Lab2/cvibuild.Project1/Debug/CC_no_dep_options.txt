@@ -1,0 +1,1 @@
+-force-include-file "MainUIR.c";"d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab2\MainUIR.c" 
