@@ -1,0 +1,25 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab3\AcquisitionSimulation.c:68:5"
+
+[MainPanelCB]
+Class="Function"
+Prototype="int MainPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab3\AcquisitionSimulation.c:120:17"
+
+[OnMenuBar]
+Class="Function"
+Prototype="void OnMenuBar(int menuBar, int menuItem, void *callbackData, int panel);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab3\AcquisitionSimulation.c:136:18"
+
+[PowerSwitchCB]
+Class="Function"
+Prototype="int PowerSwitchCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab3\AcquisitionSimulation.c:215:17"
+
+[AcquisitionModeCB]
+Class="Function"
+Prototype="int AcquisitionModeCB(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab3\AcquisitionSimulation.c:264:17"
+
