@@ -1,0 +1,1 @@
+-force-include-file "Di.c";"d:\Lab4\Tema1\Di.c" -force-include-file "Di.h";"d:\Lab4\Tema1\Di.h" 

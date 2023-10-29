@@ -1,0 +1,25 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Lab4\Tema1\Di.c:10:5"
+
+[OnDiPanelCB]
+Class="Function"
+Prototype="int OnDiPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lab4\Tema1\Di.c:26:17"
+
+[OnDiButtonRead]
+Class="Function"
+Prototype="int OnDiButtonRead(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lab4\Tema1\Di.c:45:17"
+
+[OnDiButtonStart]
+Class="Function"
+Prototype="int OnDiButtonStart(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lab4\Tema1\Di.c:57:17"
+
+[OnDiKeyTimer]
+Class="Function"
+Prototype="int OnDiKeyTimer(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Lab4\Tema1\Di.c:85:17"
+
