@@ -1,0 +1,1 @@
+-force-include-file "AnalogOut.c";"d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab7\AnalogOut.c" -force-include-file "AnalogOut.h";"d:\AC-University-Assignments\CVI - Data acquisition and processing\Lab7\AnalogOut.h" 
